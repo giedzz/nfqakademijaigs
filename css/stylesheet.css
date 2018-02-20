@@ -84,7 +84,7 @@ section.sec1 #header.invisible{
 }
 section.sec1 #header h1{
 
-	background-color: rgb(146, 140, 140,.5);
+	background-color: rgba(146, 140, 140,.5);
 
 	color: white;
 	text-transform: uppercase;
